@@ -4,7 +4,7 @@ Hi everyone 😃
 
 I recently started studying about deep learning and neural networks and I thought it would be good to share the resources I use to study. So I'll try to keep this list updated, but don't blame me if I get a lil bit lazy. 😅
 
-I appreciate if you could support me by giving this repo a star ⭐
+I appreciate it if you could support me by giving this repo a star ⭐
 
 
 And... keep learning and good luck 😉✨
@@ -26,4 +26,19 @@ And... keep learning and good luck 😉✨
 ## Books
 
 - ['Neural Networks and Deep Learning' by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+
+---
+
+## Contributing
+
+I greatly appreciate that if you could contribute to this repo so we can all learn together. 😃
+1. Fork the repo
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
+
+## Contact
+
+[Ray](https://github.com/1MahdiR) : a.m.rasouli.n@gmail.com
 
