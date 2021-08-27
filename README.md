@@ -17,6 +17,8 @@ And... keep learning and good luck 😉✨
 
 - [12b: Deep Neural Nets](https://www.youtube.com/watch?v=VrMHA3yX_QI)
 
+- [Linear Regression and Gradient Descent - Stanford, Andrew Ng](https://www.youtube.com/watch?v=4b4MUYve_U8)
+
 ## Articles
 
 - [Neural Networks | Fundamentals](https://towardsdatascience.com/neural-networks-fundamentals-1b4c46e7dbfe)
