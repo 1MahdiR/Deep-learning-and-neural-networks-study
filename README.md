@@ -27,6 +27,8 @@ And... keep learning and good luck 😉✨
 
 - [Artificial Neural Network Fundamentals](https://uc-r.github.io/ann_fundamentals)
 
+- [Support Vector Machine - Towards data science](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+
 ## Books
 
 - ['Neural Networks and Deep Learning' by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
