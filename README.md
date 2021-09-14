@@ -21,6 +21,10 @@ And... keep learning and good luck 😉✨
 
 - [Gradient descent, how neural networks learn - 3Blue1Brown](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 
+- [K-means clustering - StatQuest](https://www.youtube.com/watch?v=4b5d3muPQmA)
+
+- [K Means Clustering Intuition](https://www.youtube.com/watch?v=AWKCCK5YHsE)
+
 ## Articles
 
 - [Neural Networks | Fundamentals](https://towardsdatascience.com/neural-networks-fundamentals-1b4c46e7dbfe)
